@@ -1,7 +1,7 @@
 # This this simple fireabase website repo 
 <b> login from authentication using firebase authentication and crud operarions are done</b>
-<b>Deployed on google firebase </b>
-<b>simple operations like adding items to the todolist and clearing all todo items this all you can to with this website </b>
+<b>how to Deploy on google firebase </b>
+<b> first you need to create one app on the firebase google official site then for hosting you have to select the that app ok </b>
 <b>Firebase hosting steps</b>
 <br><b>Step 1</b>
 ```install nodejs on your machine```
